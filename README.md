@@ -7,6 +7,7 @@ Count from 1 to 100. Every number that's divisible by 3, print fizz. Every numbe
 #include <stdio.h>
 
 int main()
+
 {
     
     int x;
@@ -50,4 +51,5 @@ int main()
     }
     
     return 0;
+    
 }
